@@ -17,7 +17,7 @@ require 'resourcemanager'
 SceneManager = require 'scenemgr'
 
 
-WEB_BUILD = true
+WEB_BUILD = false
 
 
 -- number of units in the window
